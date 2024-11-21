@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SwiftyGifMac"
-  s.version          = "5.4.4"
+  s.version          = "5.4.5"
   s.summary          = "High performance Gif engine in Swift. Add and control Gif images easily! Code and PodSpec for macOS platform."
   s.homepage         = "https://github.com/kelvinjjwong/SwiftyGifMac"
   s.license          = { :type => "MIT", :file => "LICENSE" }
